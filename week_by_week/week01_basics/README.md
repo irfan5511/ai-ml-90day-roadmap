@@ -10,3 +10,4 @@ Tasks, links, and your mini projects.
 - [ ] Lint passes (`make lint`)
 - [ ] Commit with Conventional Commit message
 - [ ] Push to GitHub and open PR (if collaborating)
+- [x] Completed first Python mini-project (expense tracker)

@@ -8,7 +8,7 @@ test:
 	pytest -q
 
 lint:
-	python -m compileall src
+	python3 -m compileall src
 
 run-app:
 	streamlit run project_templates/STREAMLIT_APP_TEMPLATE.py
