@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyterlab
+ipykernel
+streamlit
+fastapi
+uvicorn
+pytest
+python-dotenv
+# Choose one DL framework (uncomment one)
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# tensorflow
