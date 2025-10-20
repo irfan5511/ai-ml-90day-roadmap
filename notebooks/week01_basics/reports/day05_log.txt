@@ -1,0 +1,3 @@
+Day 05 log
+- learned open/read/write
+- created and read CSV
